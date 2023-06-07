@@ -1,0 +1,2 @@
+# Kool
+Polütehnikumi repo
